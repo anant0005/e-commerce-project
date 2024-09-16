@@ -1,4 +1,4 @@
 # e-commerce-project
-bulid a ecommerce website using html &amp; css
+bulid a ecommerce website using html & css
 <br>
 Author- Anant Chauhan
